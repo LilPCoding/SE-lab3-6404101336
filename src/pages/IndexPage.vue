@@ -77,9 +77,10 @@ export default {
       onReset () {
         name.value = null
         age.value = null
-        accept.value = false
+        accept.value = false //kkkkk
       }
     }
   }
 }
 </script>
+
